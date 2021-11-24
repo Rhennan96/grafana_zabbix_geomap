@@ -23,3 +23,12 @@ WHERE i.hostid=h.hostid**
 4º Preencha o inventário dos hosts no zabbix com a latitude e longitude.
 
 ![Alt text](/coordenadas.png?raw=true)
+
+5º Faça a transformação de texto para numero na aba Transform
+
+![Alt text](/transform.png?raw=true)
+
+
+6º Configure os campos de coordenadas no geomap
+
+![Alt text](/config_geomap.png?raw=true)
