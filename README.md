@@ -32,3 +32,9 @@ WHERE i.hostid=h.hostid**
 6º Configure os campos de coordenadas no geomap
 
 ![Alt text](/config_geomap.png?raw=true)
+
+
+
+Feito isso, todos os hosts com latitude e longitude preenchidos serão exibidos no mapa
+
+![Alt text](/mapa.png?raw=true)
