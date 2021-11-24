@@ -7,3 +7,4 @@ Coleta de dados geográficos de Hosts do zabbix para o plugin world map do grafa
 
 2º Instale o Plugin Worldmap Panel
 
+![Alt text](/worldmap.png?raw=true)
